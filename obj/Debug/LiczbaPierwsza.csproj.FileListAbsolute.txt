@@ -1,0 +1,11 @@
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\bin\Debug\LiczbaPierwsza.exe.config
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\bin\Debug\LiczbaPierwsza.exe
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\bin\Debug\LiczbaPierwsza.pdb
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.csprojAssemblyReference.cache
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.csproj.CoreCompileInputs.cache
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.exe
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.pdb
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\bin\Debug\LiczbaPierwsza.exe.manifest
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\bin\Debug\LiczbaPierwsza.application
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.exe.manifest
+C:\Users\Rafal\source\repos\LiczbaPierwsza\LiczbaPierwsza\obj\Debug\LiczbaPierwsza.application
